@@ -11,6 +11,12 @@
       "device_id": "ghghghg",
       "expiry": "2026-03-06",
       "subscription": "admin"
+    },
+    {
+      "name": "ytyt",
+      "device_id": "ytyt",
+      "expiry": "2026-03-06",
+      "subscription": "admin"
     }
   ]
 }
