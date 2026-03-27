@@ -1,16 +1,3 @@
 {
-  "devices": [
-    {
-      "name": "ytyt",
-      "device_id": "tytyt",
-      "expiry": "2026-03-06",
-      "subscription": "admin"
-    },
-    {
-      "name": "fdf",
-      "device_id": "fdf",
-      "expiry": "2026-03-06",
-      "subscription": "admin"
-    }
-  ]
+  "devices": []
 }
