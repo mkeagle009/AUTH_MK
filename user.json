@@ -1,3 +1,10 @@
 {
-  "devices": []
+    "devices": [
+        {
+            "name": "mk",
+            "device_id": "uiyiyuiy",
+            "expiry": "2026-05-12",
+            "subscription": "admin"
+        }
+    ]
 }
