@@ -5,6 +5,12 @@
             "device_id": "uiyiyuiy",
             "expiry": "2026-05-12",
             "subscription": "admin"
+        },
+        {
+            "name": "oiu",
+            "device_id": "uiouoiu",
+            "expiry": "2026-05-12",
+            "subscription": "night"
         }
     ]
 }
